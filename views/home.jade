@@ -1,0 +1,52 @@
+extends layout
+
+block content
+    h1= title
+
+
+    // Wrapper
+    #wrapper
+
+    // Function List
+        
+    // /WRAPPER
+     br
+    
+    br   
+    // /WRAPPER
+    h4 Add your emotional status for our survey
+    form#surveyForm(name="surveyForm")
+        | Select Your Gender
+        br
+        input#gender_m(type='radio', name='gender', value='M', checked) 
+        |   
+        label(for='male') Male
+        |   
+        input#gender_f(type='radio', name='gender', value='F', checked=gender=="Female")
+        |   
+        label(for='female') Female
+        br
+        | How Do you feel now ?
+        br
+        select#EmotionType(name='EmotionType')
+         option(value='hungry') Hungry
+         option(value='sleepy') Sleepy
+         option(value='tired') Tired
+        br
+        | the State
+        br
+        select#StateValue(name='StateValue')
+         option(value='0') 0 
+         option(value='1') 1 
+         option(value='2') 2  
+         option(value='3') 3  
+         option(value='4') 4 
+         option(value='5') 5 
+        br
+    br
+    button#btnAddUser Submit Survey
+    br
+    br    
+    a(href='/view') view survey
+    |     
+    br 

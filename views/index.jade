@@ -1,0 +1,34 @@
+extends layout
+
+block content
+    h1= title
+    // Wrapper
+    #wrapper
+
+        // USER LIST
+        #surveyResults
+         h2 Tabular result
+         #surveyList
+            table#survey
+                thead
+                    th Gender
+                    th Condition
+                    th State
+                    th Register Time 
+                tbody   
+        #statistics 
+         h2 Overall Statistics of Survey Result
+         #total-count      
+          h4 Total number of responders :         
+          p#total 
+          br
+          br
+         #avg-count
+          h4 Average Responders per Hour : 
+          p#avgResponder
+          br
+         #chartContainer
+         br
+         br 
+    // /WRAPPER
+     
