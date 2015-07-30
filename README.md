@@ -1,7 +1,7 @@
 # webSurvey
    This project is about web survey analysis of physical condition data creation using node, express.js and mongo db.
   
-  Installation
+   **Installation**
   
     - Step 1 Install node.js
     
@@ -13,7 +13,7 @@
      
             http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
         
-  How to run      
+   **How to run**      
     
     - Clone repository in your system
     
@@ -24,7 +24,7 @@
     - Then navigate to http://localhost:3000
     
   
-  Unit Testing
+   **Unit Testing**
   
       Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy and fast.
    
@@ -34,7 +34,7 @@
       
          npm install frisby
     
-      Run Test
+      **Run Test**
     
          Frisby is built on top of the Jasmine BDD framework, and uses the jasmine-node
       
