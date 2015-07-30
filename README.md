@@ -3,19 +3,19 @@
   
   Installation
   
-    -Step 1 Install node.js
+    - Step 1 Install node.js
     
-    -Step 2 Install Express generator
+    - Step 2 Install Express generator
       
          npm install -g express-generator
          
-    -Step 3 Install Mongodb
+    - Step 3 Install Mongodb
      
           http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
         
   How to run      
     
-    -Clone repository in your system
+    - Clone repository in your system
     
     - run npm install
     
