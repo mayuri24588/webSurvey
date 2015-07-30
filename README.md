@@ -1,5 +1,5 @@
 # webSurvey
-Node.js-MongoDB-Express-Web Survey
+   Node.js-MongoDB-Express-Web Survey
   
   Installation
   
@@ -21,7 +21,7 @@ Node.js-MongoDB-Express-Web Survey
     
     - npm start
   
-    -Then navigate to http://localhost:3000
+    - Then navigate to http://localhost:3000
     
   
   Unit Testing
