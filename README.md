@@ -11,7 +11,7 @@ Node.js-MongoDB-Express-Web Survey
          
     -Step 3 Install Mongodb
      
-        http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+          http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
         
   How to run      
     
@@ -28,7 +28,7 @@ Node.js-MongoDB-Express-Web Survey
   
      Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy and fast.
    
-    Install Frisby
+     Install Frisby
    
         Frisby requires both node.js and NPM to be installed on your system, and is installable as an NPM package. 
       
