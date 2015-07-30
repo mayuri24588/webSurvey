@@ -13,13 +13,14 @@
      
             http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
         
-   **How to run**      
+
+  **How to run**      
     
    - Clone repository in your system
     
-   - run npm install
+         npm install
     
-   - npm start
+         npm start
   
    - Then navigate to http://localhost:3000
     
