@@ -2,7 +2,7 @@
    This project is about web survey analysis of physical condition data creation using node, express.js and mongo db.
   
    **Installation**
-  
+   
    * #####Step 1 Install node.js
    
    * #####Step 2 Install Express generator
@@ -12,10 +12,10 @@
    * #####Step 3 Install Mongodb
      
             http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
-        
+   
 
-  **How to run**      
-    
+   **How to run**
+  
    - Clone repository in your system
     
          npm install
