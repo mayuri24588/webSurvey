@@ -1,5 +1,5 @@
 # webSurvey
-   Node.js-MongoDB-Express-Web Survey
+   This project is about web survey analysis of physical condition data creation using node, express.js and mongo db.
   
   Installation
   
@@ -7,11 +7,11 @@
     
     - Step 2 Install Express generator
       
-         npm install -g express-generator
+            npm install -g express-generator
          
     - Step 3 Install Mongodb
      
-          http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+            http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
         
   How to run      
     
@@ -26,34 +26,25 @@
   
   Unit Testing
   
-     Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy and fast.
+      Frisby is a REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy and fast.
    
-     Install Frisby
+         Install Frisby
    
-        Frisby requires both node.js and NPM to be installed on your system, and is installable as an NPM package. 
+      Frisby requires both node.js and NPM to be installed on your system, and is installable as an NPM package. 
       
          npm install frisby
     
-    Run Test
+      Run Test
     
-      Frisby is built on top of the Jasmine BDD framework, and uses the jasmine-node
+         Frisby is built on top of the Jasmine BDD framework, and uses the jasmine-node
       
-      Install Jasmine-node
+            Install Jasmine-node
       
-          npm install -g jasmine-node
+               npm install -g jasmine-node
       
-      jasmine-node test
+               jasmine-node test/
       
-  Contents
-  
-    /public - static directories 
-    /models - data model
-    /routes - route files for project
-    /views - views for project
-    README.md - this file
-    app.js - central app file for project
-    package.json - package info for project
-          
+ 
      
 
   
